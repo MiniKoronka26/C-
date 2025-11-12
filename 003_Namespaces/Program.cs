@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿/*Figures2d.Point p = new Figures2d.Point();
+
+Figures3d.Point p1 = new Figures3d.Point();*/
